@@ -1,1 +1,1 @@
-# tf2-gae
+# Graph Auto-encoder in TF2
